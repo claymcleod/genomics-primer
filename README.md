@@ -2,12 +2,12 @@ This repository contains all of the resources I have found helpful in studying g
 
 ## General purpose readings
     
-    1. [A Brief Guide to Genomics][1] by the National Human Genome Research Institute 
-    2. [Machine Learning in Genomic Medicine][3]
+1. [A Brief Guide to Genomics][1] by the National Human Genome Research Institute 
+2. [Machine Learning in Genomic Medicine][3]
 
 ## Paywalled
 
-    * [Machine Learning Applications in Genetics and Genomics][2]
+* [Machine Learning Applications in Genetics and Genomics][2]
     
 [1]: https://www.genome.gov/18016863/a-brief-guide-to-genomics/
 [2]: http://www.nature.com/nrg/journal/v16/n6/full/nrg3920.html
