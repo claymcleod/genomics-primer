@@ -17,6 +17,13 @@ This repository contains all of the resources I have found helpful in studying g
 * [FastQC][13]: Industry standard raw data quality check software.
 * [htseq][7]: Useful for counting gene expression
 
+## Data sources
+
+### Raw data
+
+* [dbGaP][14]: NIH (U.S. based) genomics repository
+* [EGA][15]: EBI (European based) genotype-phenotype repository
+
 ## Data science applied to genomics 
 
 * [Machine Learning in Genomic Medicine][3]
@@ -35,3 +42,5 @@ This repository contains all of the resources I have found helpful in studying g
 [11]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2847217/
 [12]: https://software.broadinstitute.org/gatk/
 [13]: http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+[14]: https://www.ncbi.nlm.nih.gov/gap
+[15]: https://www.ebi.ac.uk/ega/home
